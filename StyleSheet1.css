@@ -1,0 +1,15 @@
+﻿body {
+    background-color:dodgerblue;
+}
+
+.well{
+    background-color:red;
+}
+
+.col-sm-2 sidenav{
+    text-emphasis-color:red;
+}
+
+footer{
+    background-color:red;
+}
